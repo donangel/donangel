@@ -5,6 +5,10 @@ Welcome my public Github repos. Here's some more info about me, according to Git
 - 🔭 In my free time, I work on various personal projects, primarily mobile apps on Dart/Flutter. I'm using this also as a tremendous learning opportunity.
 - 📫 You can reach me via this profile. Or if you'd like more, you can [visit my About.Me page](https://about.me/donangel/), where you'll find all my profiles and contact information.
 
+Last, but not least, here's my DailyDev card. I love it there, if you're not using it, maybe you should take a look:
+
+<a href="https://app.daily.dev/doncho"><img src="https://api.daily.dev/devcards/v2/EB0j0Umzh5v3zGWUSL5ma.png?type=wide&r=jes" width="652" alt="Doncho Angelov's Dev Card"/></a>
+
 <!--
 **donangel/donangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
